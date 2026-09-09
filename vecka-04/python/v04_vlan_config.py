@@ -10,7 +10,7 @@ vlans = {
     10: "KONTOR",
     20: "EKONOMI",
     30: "GAST",
-    40: "DRIFT",
+    99: "DRIFT",
     }
 
 for number in vlans:
