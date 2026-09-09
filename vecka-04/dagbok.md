@@ -7,7 +7,7 @@ Dag 2. Har gjort iordning Github efter den strukturen Johan efterfrågar i kursl
 
 
 
-3.13 192.168.2.0
+
 
 Repeteringsfrågor
 Fråga 1. 192.168.1.128 Nätadress, x.191 bc, intervallet 129-190 dvs 62
