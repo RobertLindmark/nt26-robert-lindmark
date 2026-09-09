@@ -4,7 +4,7 @@ har krånglat med ssh nycklarna så har fått spendera mycket tid på det.
 Dag 2. Har gjort iordning Github efter den strukturen Johan efterfrågar i kurslitteraturen.
 Även gjort vecka 4s python script. läst igenom vecka 4.
 
-
+Dag 3. Har suttit med packettracer och gjort Nordvik efter boken tom v.4
 
 
 
