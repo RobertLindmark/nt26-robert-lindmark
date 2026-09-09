@@ -7,7 +7,10 @@ Dag 2. Har gjort iordning Github efter den strukturen Johan efterfrågar i kursl
 Dag 3. Har suttit med packettracer och gjort Nordvik efter boken tom v.4
 
 
-
+4.17 [typ 4 • Konfigurationsövning] Port Gi0/11 till Gi0/14 på SW-Nordvik-1 ska läggas i
+VLAN 20 och slippa vänta på STP när en dator kopplas in. Skriv konfigurationen
+med så få rader som möjligt.
+Vad ska jag skriva för att slippa vänta på STP!?
 
 Repeteringsfrågor
 Fråga 1. 192.168.1.128 Nätadress, x.191 bc, intervallet 129-190 dvs 62
